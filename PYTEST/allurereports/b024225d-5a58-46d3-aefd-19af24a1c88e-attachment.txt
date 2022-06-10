@@ -1,0 +1,10 @@
+Pagina abierta: https://www.facebook.com/
+Escribiendo en el campo email el texto -> aselectronica2000@gmail.com 
+Escribiendo en el campo pass el texto -> empezamos0909 
+Damos click en el campo //button[@data-testid='royal_login_button'] 
+Entrando al sistema dos
+Entrando al sistema dos
+Damos click en el campo (//i[contains(@data-visualcompletion,'css-img')])[3] 
+Escribiendo en el campo (//INPUT[@dir='ltr'])[2] el texto -> Rodrigo 
+Damos click en el campo //span[@class='a8c37x1j ni8dbmo4 stjgntxs l9j0dhe7 ltmttdrg g0qnabr5'][contains(.,'Busca rodrigo')] 
+saliendo de los test
